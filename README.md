@@ -2,6 +2,8 @@
 
 A simple project to control an LED strip that reacts to the proximity of objects using an ultrasonic sensor. The LED strip changes colors when an object is detected and smoothly returns to the default color when the object moves away.
 
+## Used in SG Night Fest 2024's Delulu High
+
 ## Features
 - **Proximity Detection:** Changes LED color based on object distance.
 - **Smooth Transitions:** LED colors fade smoothly between states.
